@@ -12,8 +12,12 @@ Paso nro 2: Ejecutar cada comando uno en una shell distinta <br />
 <b>npm run dev</b>          # backend <br />
 <b>npm run webpack</b>      # frontend <br />
 
-La url<br />
+La url local<br />
 http://localhost:3001/
+
+La url remota, deploy en Heroku la app y la bd en AWS, un cluster de MongoDB Atlas <br />
+https://challenge-logicalis.herokuapp.com/<br />
 
 
 ![Arquitectura](https://github.com/T-DiegoF/SWAPI/blob/master/diagrama.png)
+
