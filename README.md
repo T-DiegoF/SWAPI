@@ -12,4 +12,8 @@ Ejecutar cada uno en una shell distinta <br />
 <b>npm run dev</b>        # backend <br />
 <b>npm run webpack</b>      #front <br />
 
+La url<br />
+http://localhost:3001/
+
+
 ![Arquitectura](https://github.com/T-DiegoF/SWAPI/blob/master/diagrama.png)
