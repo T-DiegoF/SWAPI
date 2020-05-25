@@ -9,8 +9,10 @@ Paso nro 2: <br />
 
 Ejecutar cada uno en una shell distinta <br />
 <b>python scheduler.py </b>  #para guardar los datos de la API en la Mongo local <br />
-<b>npm run dev</b>        # backend <br />
-<b>npm run webpack</b>      #front <br />
+
+<b>npm install</b>          # instalar dependecias <br />
+<b>npm run dev</b>          # backend <br />
+<b>npm run webpack</b>      # frontend <br />
 
 La url<br />
 http://localhost:3001/
