@@ -2,8 +2,8 @@
 App Python/Javascript
 
 Paso nro 1, instalar modulos <br />
-pipenv install requests         https://requests.readthedocs.io/en/master/user/install/#install <br />
-python -m pip install pymongo   https://api.mongodb.com/python/current/installation.html <br />
+<b>pipenv install requests</b>           https://requests.readthedocs.io/en/master/user/install/#install <br />
+<b>python -m pip install pymongo </b>    https://api.mongodb.com/python/current/installation.html <br />
 
 Paso nro 2: <br />
 
