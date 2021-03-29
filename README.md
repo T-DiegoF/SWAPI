@@ -5,7 +5,7 @@ Paso nro 1: instalar modulos <br />
 <b>pipenv install requests</b>           https://requests.readthedocs.io/en/master/user/install/#install <br />
 <b>python -m pip install pymongo </b>    https://api.mongodb.com/python/current/installation.html <br />
 
-Paso nro 2: Ejecutar cada comando uno en una shell distinta <br />
+Paso nro 2: Ejecutar los siguientes comandos <br />
 <b>python scheduler.py </b>  #para guardar los datos de la API en la Mongo local <br />
 
 <b>npm install</b>          # instalar dependecias <br />
